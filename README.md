@@ -1,1 +1,1 @@
-# GIZ
+Giz Six Weeks Data Science Group Projects
